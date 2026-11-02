@@ -1,0 +1,9 @@
+{
+  "name": "real-life-simulator-servidor",
+  "version": "1.0.0",
+  "description": "Servidor WebSocket del modo en línea de Real Life Simulator",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "ws": "^8.18.0" }
+}
